@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Aaric Putt",
+      "image": "aaric.jpg",
+      "occupation": "Student",
+      "rating": 5,
+      "quote": "As an Information Systems student, Mentor has been invaluable to me in school. It helps me connect with professionals and get guidance on projects, and I’ve found it to be a great resource for expanding my network and improving my skills."
+    },
+    {
+      "name": "Sara Wilsson",
+      "image": "testimonials-2.jpg",
+      "occupation": "Designer",
+      "rating": 4,
+      "quote": "The design process has never been smoother for me, thanks to the team’s guidance. Their expertise in the field and willingness to help whenever I needed it really made a difference in my work."
+    },
+    {
+      "name": "Jena Karlis",
+      "image": "testimonials-3.jpg",
+      "occupation": "Store Owner",
+      "rating": 3,
+      "quote": "As a store owner, I’ve seen my business grow with the help of this platform. The feedback from clients and the personalized support has been instrumental in improving my store’s customer experience."
+    },
+    {
+      "name": "Matt Brandon",
+      "image": "testimonials-4.jpg",
+      "occupation": "Freelancer",
+      "rating": 5,
+      "quote": "Working with this team has been an absolute pleasure. They understood my freelance needs and offered solutions that helped me improve my workflow and efficiency. I highly recommend their services!"
+    },
+    {
+      "name": "John Larson",
+      "image": "testimonials-5.jpg",
+      "occupation": "Entrepreneur",
+      "rating": 4,
+      "quote": "Starting my own business was a challenging journey, but with the guidance and tools provided, it has been much easier. Their expertise helped me navigate the complex world of entrepreneurship."
+    },
+    {
+      "name": "Saul Goodman",
+      "image": "testimonials-1.jpg",
+      "occupation": "Ceo & Founder",
+      "rating": 5,
+      "quote": "This platform has helped me get connected with a great team, and their mentorship has been essential to growing my business. I highly recommend them for anyone looking to take their career or company to the next level."
+    }
+  ]
+  

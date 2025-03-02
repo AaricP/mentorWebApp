@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Website Design",
+      "image": "course-1.jpg",
+      "summary": "Web Development",
+      "description": "This course covers topics in web design, including UI/UX principles, responsive layouts, accessibility, and web optimization. You'll gain hands-on experience using HTML, CSS, and JavaScript to build websites.",
+      "price": 169.00,
+      "capacity": 50,
+      "registrants": 50,
+      "likes": 65,
+      "trainer": 1
+    },
+    {
+      "id": 2,
+      "title": "Search Engine Optimization",
+      "image": "course-2.jpg",
+      "summary": "Marketing",
+      "description": "This course delves into keyword research, on-page and off-page SEO, link building, and Google Analytics. You'll learn how to optimize content for search engines and develop a successful digital marketing strategy.",
+      "price": 250.00,
+      "capacity": 35,
+      "registrants": 35,
+      "likes": 42,
+      "trainer": 2
+    },
+    {
+      "id": 3,
+      "title": "Copywriting",
+      "image": "course-3.jpg",
+      "summary": "Content",
+      "description": "This course teaches you how to write compelling copy that captures attention and drives conversions. Learn storytelling techniques, brand messaging, and how to craft high-impact ads, emails, and website content.",
+      "price": 180.00,
+      "capacity": 20,
+      "registrants": 20,
+      "likes": 85,
+      "trainer": 3
+    },
+    {
+      "id": 4,
+      "title": "Graphic Design Fundamentals",
+      "image": "course-4.jpg",
+      "summary": "Design",
+      "description": "This course covers color theory, typography, composition, and branding. You'll gain hands-on experience using Adobe Photoshop and Illustrator to design stunning visuals for web and print media.",
+      "price": 220.00,
+      "capacity": 40,
+      "registrants": 30,
+      "likes": 78,
+      "trainer": 4
+    },
+    {
+      "id": 5,
+      "title": "Python Programming",
+      "image": "course-5.jpg",
+      "summary": "Programming",
+      "description": "This course introduces the basics of Python, covering variables, data types, control flow, functions, and object-oriented programming. Perfect for beginners looking to enter software development or automation.",
+      "price": 199.00,
+      "capacity": 50,
+      "registrants": 40,
+      "likes": 90,
+      "trainer": 5
+    },
+    {
+      "id": 6,
+      "title": "Photography for Beginners",
+      "image": "course-6.jpg",
+      "summary": "Photography",
+      "description": "This course covers camera settings, composition, lighting, and post-processing techniques to help you take professional-quality photos. Ideal for beginners looking to improve their photography skills.",
+      "price": 150.00,
+      "capacity": 30,
+      "registrants": 25,
+      "likes": 70,
+      "trainer": 6
+    }
+  ]
+  

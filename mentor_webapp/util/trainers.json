@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Jimmy Johnson",
+      "image": "team-1.jpg",
+      "expertise": "Web Development",
+      "bio": "I go *click clack* on my keyboard and make people happy."
+    },
+    {
+      "name": "Wendy Frosty",
+      "image": "team-2.jpg",
+      "expertise": "Data Engineering",
+      "bio": "I make sure that the data you store is clean an accurate."
+    },
+    {
+      "name": "Mac Donald",
+      "image": "team-3.jpg",
+      "expertise": "Cybersecurity",
+      "bio": "Ain't nobody gonna get your password if I have anything to do with it."
+    },
+    {
+      "name": "Shakell Filet",
+      "image": "team-4.jpg",
+      "expertise": "Data Analytics",
+      "bio": "You have so much information, that you don't know what to do with it? Don't worry, I gotchu!"
+    },
+    {
+      "name": "Ian Out",
+      "image": "team-5.jpg",
+      "expertise": "Information Technology",
+      "bio": "If it's broke, I'll fix it. I might not know how, but I sure know how to google."
+    },
+    {
+      "name": "Pam Dexpress",
+      "image": "team-6.jpg",
+      "expertise": "Management Information Systems",
+      "bio": "If it's technology related, come to me before you make any final decisions. Thank you."
+    }
+  ]
+  

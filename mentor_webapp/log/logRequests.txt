@@ -1,0 +1,13 @@
+[0mGET / [36m304[0m 582.802 ms - -[0m
+[0mGET /about [36m304[0m 541.720 ms - -[0m
+[0mGET /courses [36m304[0m 116.850 ms - -[0m
+[0mGET /trainers [36m304[0m 56.975 ms - -[0m
+[0mGET /events [36m304[0m 84.963 ms - -[0m
+[0mGET /contact/new [36m304[0m 2.183 ms - -[0m
+[0mPOST /contact/create [32m200[0m 380.424 ms - 7031[0m
+[0mGET / [36m304[0m 406.250 ms - -[0m
+[0mGET /about [36m304[0m 256.537 ms - -[0m
+[0mGET /kudos [32m200[0m 1.897 ms - 9772[0m
+[0mPOST /kudos [36m302[0m 359.013 ms - 41[0m
+[0mGET /about [32m200[0m 300.551 ms - 18812[0m
+[0mGET /img/testimonials/asdf [33m404[0m 0.283 ms - 160[0m
